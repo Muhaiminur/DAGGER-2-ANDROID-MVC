@@ -1,0 +1,2 @@
+rootProject.name='DAGGER_ABIR'
+include ':app'
